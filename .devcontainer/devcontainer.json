@@ -1,6 +1,6 @@
 {
   "name": "Java Spring Event Lab",
-  "image": "mcr.microsoft.com/devcontainers/java:17-bullseye",
+  "image": "mcr.microsoft.com/devcontainers/java:0-17",
   "features": {
     // Habilita Docker-in-Docker para construir y correr contenedores dentro del dev container
     "ghcr.io/devcontainers/features/docker-in-docker:2": {
