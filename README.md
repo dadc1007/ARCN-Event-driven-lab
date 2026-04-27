@@ -188,10 +188,14 @@ Al final del laboratorio deberías tener:
 
 ## Evidencia
 
-Agrega aquí los pantallazos que demuestren que el laboratorio funciona correctamente.
-
-Sugerencia de evidencias:
-
 - Captura del `docker compose ps` con los tres servicios arriba.
+
+![alt text](assets/docker.png)
+
 - Captura del `curl` enviando el mensaje desde el productor.
+
+![alt text](assets/message.png)
+
 - Captura de los logs del consumidor mostrando el mensaje recibido.
+
+![alt text](assets/log.png)
